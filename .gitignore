@@ -1,5 +1,8 @@
 # Other
 *.vscode
+*.icloud
+*.mov
+*.gif
 
 # Mac specific
 *.DS_Store
