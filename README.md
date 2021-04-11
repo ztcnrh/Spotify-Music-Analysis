@@ -1,4 +1,6 @@
-# Spotify Music Analysis Project - Trends, Comparison, and Correlations
+# Spotify Music Analysis - Trends, Comparison, and Correlations :musical_note:
+
+The story of sound recording, and reproduction, began in 1877, when the man of a thousand patents, Thomas Edison, invented the phonograph. The commercialized music industry has only been around for about 100 years as the recording and radio technology emerged in the early 90s...
 
 ## Background
 
@@ -6,7 +8,7 @@ This was the first data analysis project in the Penn Data Boot Camp curriculum. 
 
 ![Header Image](summary&presentation/presentation_highlights/spotify_header.png)
 
-The data contained 170k+ songs collected by the dataset author (Yamac Eren Ay) from Spotify's Web API. Each row was a unique song track with its song facts (authors, release date, etc.), numerical audio feature ratings (acousticness, danceability, loudness, etc.), and Spotify specific user ratings (popularity). The author did a good job cleaning the organizing the datasets so the team had minimal necessary data cleaning to perform. Below is a snapshot of the data content:
+The data contained 170k+ songs collected by the Kaggle dataset creator (Yamac Eren Ay) from Spotify's Web API. Each row was a unique song track with its song facts (authors, release date, etc.), numerical audio feature ratings (acousticness, danceability, loudness, etc.), and Spotify-specific user ratings (popularity). The creator did a good job cleaning and organizing the datasets so the team had minimal necessary data cleaning to perform. Below is a snapshot of the data content:
 
 <strong>Primary:</strong>
 <ul>
@@ -42,9 +44,9 @@ The data contained 170k+ songs collected by the dataset author (Yamac Eren Ay) f
 
 ## Objective
 
-The story of sound recording, and reproduction, began in 1877, when the man of a thousand patents, Thomas Edison, invented the phonograph. The commercialized music industry has only been around for about 100 years as the recording and radio technology emerged in the early 90s.
+<strong>In this project, our objective was to <em>uncover music trends</em>. In other words, the goal was to understand how artists, genres, the audio features develop over time and how the popularity of songs were perceived through the lens of Spotify and the perspective of its users.</strong>
 
-<strong>In this project, our objective was to <em>uncover music trends</em>. In other words, the goal was to understand how artists, genres, the audio features and the popularity of songs developed over time, through the perspective of Spotify and its users. We did this by using a series of models and approaches including:</strong>
+We did this by using a series of models and approaches including:
 <ol>
   <li>Time Series Analysis</li>
   <li>Summary Statistics</li>
@@ -53,5 +55,23 @@ The story of sound recording, and reproduction, began in 1877, when the man of a
   <li>Correlation Analysis</li>
 </ol>
 
+## Analysis & Interpretations
 
+Below are some highlights of the questions we asked and the results. If you are interested to dig into more, here are the:
+
+* [Full-Length Project Report](summary&presentation/Project_Analysis_Summary.docx)
+* [Project Presentation Deck](summary&presentation/Spotify_Music_Exploration.pptx)
+
+<hr>
+
+### How has the characteristics of music changed over time?
+![Audio Features of Songs from Different Eras](images/audio_features_over_years.png)
+
+The taste to music and the way artists make music have certainly changed dramatically over the years! To pick a few to highlight: Acousticness (a higher rating of acousticness indicates a piece of music that primarily uses instruments that produce sound through acoustic means, as opposed to electronic means) dropped significantly from the early 1900s to today. Energy rating, on the other hand, increased over the years. Features like Danceability and Valence (positivity) stayed consistent over eras. Looking at these terends, one can interpret that today's music is very different from music 50, 100 years ago. While some features change, some others generally stay consistent potentially because the definition of music limits certain features to be within a range.
+
+We also believe that the technologies like radio has enabled music to penetrate to virtually everyone in the world thus evolved the music industry with growing categories and innovation. In addition, the birth of the digital era also gives artists tools to make completely different music and explore the unfamiliar territory.
+
+### From which era are the songs most popular for contemporary listeners?
+
+![Popularity Scores Over the Years](summary&presentation/presentation_highlights/popularity_over_ears.png)
 
