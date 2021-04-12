@@ -57,7 +57,7 @@ We did this by using a series of models and approaches including:
 
 ## Analysis & Interpretations
 
-Below are some highlights of the questions we asked and the results. If you are interested to dig into more, here are the:
+Below are some highlights of the questions we asked and the results we produced. If you are interested to dig into more, here are the:
 
 * [Full-Length Project Report](summary&presentation/Project_Analysis_Summary.docx)
 * [Project Presentation Deck](summary&presentation/Spotify_Music_Exploration.pptx)
@@ -73,5 +73,33 @@ We also believe that the technologies like radio has enabled music to penetrate 
 
 ### From which era are the songs most popular for contemporary listeners?
 
-![Popularity Scores Over the Years](summary&presentation/presentation_highlights/popularity_over_ears.png)
+![Popularity Scores Over the Years](summary&presentation/presentation_highlights/popularity_over_eras.png)
 
+The plot on the right is the average popularity scores for all songs in the dataset over the years. There is a clear trend that the average popularity increases as the years approach contemporary times. The average popularity peeked in around 2000 and started to decline. **Conclusion:** Songs from the late 1990s to the early 2000s are the most popular on Spotify.
+
+*Additional comments/theories:*
+1. Spotify's user base is basically dominated by Millennials, "with 29% of its users aged 25-34 and 26% aged 18-24 years old.” (Source: Statista). It’s no surprise that as the years go by, popularity grows since the Millennials are probably listening and catching up to contemporary songs. However, songs from 1960s to 1990s have popularities above average which shows us that the songs from that era are still extremely relevant. They are simply too good to be forgotted already and people are nostalgic enough to keep playing the songs that bring back the best memory to them.
+2. As to why there’s a downward trend after 2000: one possible explanation is that songs are just like arts, they take time to be appreciated, recognized and people take time to catch up. However, one can't deny the possibility that today's music just doesn't resonate with the majority of Spotify listeners as much as the older ones.
+
+### Who are the most timeless artists?
+
+![Who is the Music GOAT?](summary&presentation/presentation_highlights/music_goat_analysis.png)
+
+We thought it'd be fun to understand how artists’ careers flourish and decline, and we wanted to see which artists had an enduring career and maybe a lasting impact to the fans.
+
+Through a series of data cleaning and aggregation/grouping, we selected two most relevant candidates for our analysis - Johnny Cash and Frank Sinatra. Though the "time spans of songs" represent the times when their songs are released but not necessarily the number of years when they're active, and that our analysis is confined with a limited dataset, we can still see these two artists are the "outliers" compared with other "old timers" when it comes to "longevity".
+
+The plot shows the song popularity scores of the top 5 "old timers" over the years compared with the dataset average. We can see Johnny and Frank's popularities be above the average consistently throughout the mid 1900s and the early 2000s.
+
+![Distribution of Songs for the Most "Timeless" Artists Over Years](images/old_timers_song_releases_by_year.png)
+
+This is an additional plot of the number of songs released by year per each "old timer" to help us understand their career trajectories. Obviously their active years were in 1960s-1970s, but Jonny and Frank's popularity scores are still way higher than the average going into the 2000s (after they had died!)
+
+**Conclusion:** Time is the greatest testament of someone’s greatness. With the confined assumptions of our analysis: looking at the U.S. music industry and through the lens of the Spotify's user base, we objectively conclude that Johnny Cash and Frank Sinatra are the two most timeless artists. Put it another way: Music’s legends continue to be popular till today.
+
+### How do popular genres compare with each other?
+
+![Radar Chart - A Comparison of 5 Popular Genres](images/radar_all_artists.png)
+
+......
+......
