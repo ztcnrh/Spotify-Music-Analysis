@@ -65,7 +65,7 @@ Below are some highlights of the questions we asked and the results we produced.
 <hr>
 
 ### How have the characteristics of music changed over time?
-![Audio Features of Songs from Different Eras](images/audio_features_over_years.png)
+![Audio Features of Songs from Different Eras](images/audio_features_over_years.gif)
 
 The taste to music and the way artists make music have certainly changed dramatically over the years! To pick a few to highlight: Acousticness (a higher rating of acousticness indicates a piece of music that primarily uses instruments that produce sound through acoustic means, as opposed to electronic means) dropped significantly from the early 1900s to today. Energy rating, on the other hand, increased over the years. Features like Danceability and Valence (positivity) stayed consistent over eras. Looking at these terends, one can interpret that today's music is very different from music from 50-100 years ago. While some features change, some others generally stay consistent potentially because the definition of music limits certain features to be within a range.
 
