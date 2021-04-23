@@ -99,7 +99,11 @@ This is an additional plot of the number of songs released by year per each "old
 
 ### How do popular genres compare with each other?
 
+With the comprehensive data in hand, we wanted to dive deeper into the music features and explore what makes a piece of music music. we decided to compare popular genres to see if it offers any insight as to how the contemporary music is produced and whether if there's any noticeable similarity or difference.
+
+To do this, we subjectively chose five genres that we believed to be popular and acceptable by a large population. We then picked the artists that best represented the respective genres from 2021's Billboard 200. Histrograms of music features for each artist were created and inspected to ensure an appropriate statistical value as a representation of the music feature scores. Lastly, the average scores for each artist were plotted on an overlaid radar chart for comparison.
+
 ![Radar Chart - A Comparison of 5 Popular Genres](images/radar_all_artists.png)
 
-......
-......
+
+
