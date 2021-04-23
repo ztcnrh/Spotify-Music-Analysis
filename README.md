@@ -1,4 +1,4 @@
-# Spotify Music Analysis - Trends, Comparison, and Correlations :musical_note:
+# Spotify Music Analysis - Trends, Comparison, and Correlations :musical_note: (UPenn Data Boot Camp)
 
 The story of sound recording, and reproduction, began in 1877, when the man of a thousand patents, Thomas Edison, invented the phonograph. The commercialized music industry has only been around for about 100 years as the recording and radio technology emerged in the early 90s...
 
