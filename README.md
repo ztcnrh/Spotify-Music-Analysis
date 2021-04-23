@@ -4,7 +4,7 @@ The story of sound recording, and reproduction, began in 1877, when the man of a
 
 ## Background
 
-This was the first data analysis project in the Penn Data Boot Camp curriculum. As a team, we wanted to do something fun, exciting, and insightful while satisfying the baseline requirements. We searched through the web's databases, brainstormed ideas across various topics and landed on a dataset from Kaggle, the ["Spotify Dataset 1921-2020 Tracks"](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data_by_year.csv) dataset.
+This was the first data analysis project in the Penn Data Boot Camp curriculum. As a team, we wanted to do something fun, exciting, and insightful while going above and beyond the baseline requirements. We searched through the web's databases, brainstormed ideas across various topics and landed on a dataset from Kaggle, the ["Spotify Dataset 1921-2020 Tracks"](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data_by_year.csv) dataset.
 
 ![Header Image](summary&presentation/presentation_highlights/spotify_header.png)
 
@@ -64,12 +64,12 @@ Below are some highlights of the questions we asked and the results we produced.
 
 <hr>
 
-### How has the characteristics of music changed over time?
+### How have the characteristics of music changed over time?
 ![Audio Features of Songs from Different Eras](images/audio_features_over_years.png)
 
-The taste to music and the way artists make music have certainly changed dramatically over the years! To pick a few to highlight: Acousticness (a higher rating of acousticness indicates a piece of music that primarily uses instruments that produce sound through acoustic means, as opposed to electronic means) dropped significantly from the early 1900s to today. Energy rating, on the other hand, increased over the years. Features like Danceability and Valence (positivity) stayed consistent over eras. Looking at these terends, one can interpret that today's music is very different from music 50, 100 years ago. While some features change, some others generally stay consistent potentially because the definition of music limits certain features to be within a range.
+The taste to music and the way artists make music have certainly changed dramatically over the years! To pick a few to highlight: Acousticness (a higher rating of acousticness indicates a piece of music that primarily uses instruments that produce sound through acoustic means, as opposed to electronic means) dropped significantly from the early 1900s to today. Energy rating, on the other hand, increased over the years. Features like Danceability and Valence (positivity) stayed consistent over eras. Looking at these terends, one can interpret that today's music is very different from music from 50-100 years ago. While some features change, some others generally stay consistent potentially because the definition of music limits certain features to be within a range.
 
-We also believe that the technologies like radio has enabled music to penetrate to virtually everyone in the world thus evolved the music industry with growing categories and innovation. In addition, the birth of the digital era also gives artists tools to make completely different music and explore the unfamiliar territory.
+We also believe that the technologies like radio have enabled music to penetrate to virtually everyone in the world thus evolved the music industry with growing categories and innovation. In addition, the birth of the digital era also gives artists tools to make completely different music and explore the unfamiliar territory.
 
 ### From which era are the songs most popular for contemporary listeners?
 
