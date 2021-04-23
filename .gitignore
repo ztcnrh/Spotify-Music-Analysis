@@ -2,7 +2,7 @@
 *.vscode
 *.icloud
 *.mov
-*.gif
+# *.gif
 
 # Mac specific
 *.DS_Store
