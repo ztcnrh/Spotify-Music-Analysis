@@ -60,7 +60,7 @@ We did this by using a series of models and approaches including:
 Below are some highlights of the questions we asked and the results we produced. If you are interested to dig into more, here are the:
 
 * [Full-Length Project Report](summary&presentation/Project_Analysis_Summary.docx)
-* [Project Presentation Deck](summary&presentation/Spotify_Music_Exploration.pptx)
+* [Project Presentation Deck](https://docs.google.com/presentation/d/170KSaskGR-eWSp_uSo_Qr0fKcEIBNPetV1cH-hzRpK0/edit?usp=sharing)
 
 <hr>
 
